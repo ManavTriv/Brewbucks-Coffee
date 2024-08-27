@@ -1,7 +1,7 @@
 # P03-Brewbucks
 
 ## Tech Stack
-- Flask or AWS Lambda Functions
+- Flask
 - ReactJS
 - RDS - PostgreSQL
 
